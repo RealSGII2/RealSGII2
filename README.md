@@ -1,9 +1,6 @@
-## Hi there 👋
-Here are some things I do:
-
-<div style="background-color: var(--color-bg-primary); border: 1px solid var(--color-border-primary); border-radius: 6px; margin-top: 24px;">
-  test
-</div>
+<h2 style="text-align: center">
+  Hello there 👋
+</h2>
 
 <!--
 **RealSGII2/RealSGII2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
