@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+Here are some things I do:
 
-<div class="Box mt-4">
+<div style="background-color: var(--color-bg-primary); border: 1px solid var(--color-border-primary); border-radius: 6px; margin-top: 24px;">
   test
 </div>
 
